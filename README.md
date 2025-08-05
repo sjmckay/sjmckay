@@ -7,9 +7,10 @@ I currently study some of the <h style='color:red'> <strong> dustiest, most dist
 I made this package as a quick way to fit modified blackbody models to a dusty galaxy's spectral energy distribution. You can install it using `pip`... if you find it helpful, I'd love to know!
 
 <p>
-  <img width="300" alt="" align="left" src="./mbb_example.png">
-  <img width="300" alt="" align="left" src="./corner_example.png">
+  <img width="400" alt="" align="left" src="./mbb_example.png">
+  <img width="200" alt="" align="left" src="./corner_example.png">
 </p>
 
+<br>
 
 Contact: sjmckay3 AT wisc DOT edu
