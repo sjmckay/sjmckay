@@ -6,10 +6,12 @@ I currently study some of the <h style='color:red'> <strong> dustiest, most dist
 
 I made this package as a quick way to fit modified blackbody (MBB) models to a dusty galaxy's spectral energy distribution. You can install it using `pip`... if you find it helpful, I'd love to know!
 
+<span>
 <p>
   <img width="350" alt="" align="left" src="./mbb_example.png">
   <img width="250" alt="" align="left" src="./corner_example.png">
 </p>
+</span>
 
 ### Contact
 sjmckay3 AT wisc DOT edu
