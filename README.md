@@ -8,8 +8,8 @@ I study some of the **dustiest, most distant galaxies** in the Universe. Most of
 
 I made this package as a quick way to fit **modified blackbody (MBB) models** to a dusty galaxy's spectral energy distribution. You can install it using `pip`... if you find it helpful, I'd love to know!
 
-![test]("./mbb_example.png")
-![test]("./corner_example.png")
+![](mbb_example.png)
+![](corner_example.png)
 
 
 ### Contact
