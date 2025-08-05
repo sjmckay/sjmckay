@@ -10,7 +10,8 @@ I made this package as a quick way to fit **modified blackbody (MBB) models** to
 
 <p>
 <img src="mbb_example.png" width="350" title=""/>
-<img src="corner_example.png" width="250" title=""/>
+
+<img src="corner_example.png" width="300" title=""/>
 </p>
 
 ### Contact
