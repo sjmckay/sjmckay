@@ -1,6 +1,6 @@
 ### Hi! I'm a Physics PhD candidate at the University of Wisconsin–Madison.
 
-I currently study some of the <p style='color:brown'> <strong> dustiest, most distant galaxies </strong></p> in the Universe. Most of my coding has to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with R and Julia, some web design, and machine learning techniques).
+I currently study some of the <h style='color:red'> <strong> dustiest, most distant galaxies </strong></h> in the Universe. Most of my coding has to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with R and Julia, some web design, and machine learning techniques).
 
 ### Featured package: [mbb](https://github.com/sjmckay/mbb)
 
