@@ -16,5 +16,4 @@ You can install mbb using `pip`... if you find it helpful, I'd love to know!
 <img src="corner_example.png" width="300" title=""/>
 </p>
 
-### Contact
-sjmckay3 AT wisc DOT edu
+
