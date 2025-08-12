@@ -1,8 +1,8 @@
 ## Hi! I'm Stephen. 
 
-### I really enjoy coding, which I get to do a lot as a graduate researcher at UW&ndash;Madison
+### As a part of my PhD research at UW&ndash;Madison, I get to write lots of code.
 
-I study some of the **dustiest, most distant galaxies** in the Universe. Most of my coding has to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with R and Julia, some web design, and machine learning techniques).
+I study some of the **dustiest, most distant galaxies** in the Universe. Most of my projects have to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with R and Julia, some web design, and machine learning techniques).
 
 ### Featured package: [mbb](https://github.com/sjmckay/mbb)
 
