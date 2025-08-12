@@ -1,6 +1,6 @@
 ## Hi! I'm Stephen. 
 
-### As a part of my PhD research at UW&ndash;Madison, I get to write lots of code.
+### I enjoy coding a lot---both as a part of my PhD research and just for fun side projects.
 
 I study some of the **dustiest, most distant galaxies** in the Universe. Most of my projects have to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with R and Julia, some web design, and machine learning techniques).
 
