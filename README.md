@@ -7,6 +7,7 @@ I study some of the **dustiest, most distant galaxies** in the Universe. Most of
 ### Featured package: [mbb](https://github.com/sjmckay/mbb)
 
 I made this package as a quick way to fit **modified blackbody (MBB) models** to a dusty galaxy's spectral energy distribution. Documentation available at [Read the Docs](https://mbb.readthedocs.io/en/latest/).
+
 The code can be used as a simple SED model or to fit photometric data and perform Bayesian parameter estimation. Uncertainties and upper limits are properly accounted for, and the code allows easy access to useful posterior metrics.
 
 You can install mbb using `pip`... if you find it helpful, I'd love to know!
