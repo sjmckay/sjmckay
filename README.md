@@ -2,7 +2,7 @@
 
 ### I enjoy coding a lot&mdash;both as a part of my PhD research and for fun side projects.
 
-I study some of the **dustiest, most distant galaxies** in the Universe. Most of my projects have to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with R and Julia, some web design, and machine learning techniques).
+I study some of the **dustiest, most distant galaxies** in the Universe. Most of my projects have to do with modeling these galaxies, measuring their brightnesses in images, and doing statistical data analysis on them. I mainly work in Python but enjoy learning new skills and languages (currently fiddling around with PyTorch and other ML techniques, Julia, some web design, etc).
 
 ### Featured package: [mbb](https://github.com/sjmckay/mbb)
 
